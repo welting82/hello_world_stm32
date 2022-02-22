@@ -9,7 +9,9 @@ Environment version
 Porting codes
 
  Step1: >_ :make
+ 
  Step2: >_ :cd porting
+ 
  Step3: >_ :make flash-blink
 
 
